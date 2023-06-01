@@ -1,10 +1,6 @@
 ### Hi there 👋
-- 🔭 My name is Mety.
-- ✨ I’m currently working on getting my MLIS degree.
-- 🌱 I’m currently learning how to read the Korean alphabet.
-- 👯 I’m looking to collaborate on learning how to dance.
-- 🤔 I’m looking for help with understanding GitHub.
-- 💬 Ask me about my favorite book!
-- 📫 How to reach me: md3765@drexel.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy mint chocolate ice cream. Don't judge!
+✨ My name is Mety and my pronouns are she/her. I’m currently working on getting my MLIS degree and experimenting with GitHub and its repositories.
+- I took a look at the awesome-public-datasets repository on GitHub and found the ["Natural History Museum (London) Data Portal"](https://data.nhm.ac.uk/) to be particularly interesting. This data portal holds the Natural History Museum's research and colllections dat. From this portal, users can look up information regarding butterfly types, bird types and much more information. Through this portal, users are also able to download and cite the datasets made available by the museum directly from this portal. This data can be useful for researchers and students interested in Biology and Natural History. The metadata of the dataset appears to mainly include Format, License and ID. I think the metadata is somewhat incomplete and would greatly benefit from including a Title and Subject element so to help enhance discoverability of datasets. 
+- I explored two topics: [Twitter](https://github.com/topics/twitter) and [Digital Preservation](https://github.com/topics/digital-preservation) From these two topics, I chose the following repositories respectively: [Twint](https://github.com/twintproject/twint) and [Archivematica](https://github.com/artefactual/archivematica). 
+- The Twint repository is benefitical to Twitter users that are interested in collecting and viewing data regarding a user's tweets and the amount of followers they may have. The data made available by this tool can be saved in multiple formats such as CSV and JSON. It is apparently fast and easy to use and can evade most Twitter API limitations.
+- Archivematica is a "free and open-source digital preseration system designed to maintain standards-based, long-term access to collections of digital objects". Through exploring this repository, I found it fasiniating how extensive the resources and informative the text and files were. Moreover, there is a method of reporting issues with the repository through GitHub which enables community engagement and participation. 
